@@ -1,0 +1,45 @@
+{
+  "name": "graduation_project",
+  "version": "1.0.0",
+  "scripts": {
+    "android": "react-native run-android",
+    "ios": "react-native run-ios"
+  },
+  "dependencies": {
+    "@react-native-async-storage/async-storage": "1.23.1",
+    "@react-native-community/geolocation": "^3.2.1",
+    "@react-native-community/slider": "^4.5.2",
+    "@react-native-firebase/app": "^20.1.0",
+    "@react-native-firebase/auth": "^20.1.0",
+    "@react-native-firebase/firestore": "^20.1.0",
+    "@react-navigation/bottom-tabs": "^6.5.20",
+    "@react-navigation/native": "^6.1.17",
+    "@react-navigation/native-stack": "^6.10.1",
+    "@react-navigation/stack": "^6.4.0",
+    "axios": "^1.7.2",
+    "firebase": "^10.12.2",
+    "moment": "^2.30.1",
+    "react": "18.2.0",
+    "react-native": "0.74.5",
+    "react-native-camera": "^4.2.1",
+    "react-native-elements": "^3.4.3",
+    "react-native-fs": "^2.20.0",
+    "react-native-geolocation-service": "^5.3.1",
+    "react-native-image-picker": "^7.1.2",
+    "react-native-maps": "1.14.0",
+    "react-native-permissions": "^4.1.5",
+    "react-native-splash-screen": "^3.3.0",
+    "react-native-uuid": "^2.0.2",
+    "react-navigation": "^4.4.4",
+    "react-navigation-stack": "^2.10.4",
+    "typescript": "~5.3.3"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.0",
+    "@eslint/js": "^9.2.0",
+    "eslint": "^8.57.0",
+    "eslint-plugin-react": "^7.34.1",
+    "globals": "^15.2.0"
+  },
+  "private": true
+}
